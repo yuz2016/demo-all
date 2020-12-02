@@ -25,6 +25,12 @@ public class Person implements BeanFactoryAware, BeanNameAware,
         System.out.println("【构造器】调用Person的构造器实例化");
     }
 
+    public Person(String name, String address, int phone) {
+        this.name = name;
+        this.address = address;
+        this.phone = phone;
+    }
+
     public String getName() {
         return name;
     }
