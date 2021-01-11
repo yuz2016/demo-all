@@ -1,4 +1,4 @@
-package com.example.beforeall.model;
+package com.example.beforeall.beanlifecycle;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

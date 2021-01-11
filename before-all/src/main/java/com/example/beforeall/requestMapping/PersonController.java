@@ -1,6 +1,6 @@
 package com.example.beforeall.requestMapping;
 
-import com.example.beforeall.model.Person;
+import com.example.beforeall.beanlifecycle.Person;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;

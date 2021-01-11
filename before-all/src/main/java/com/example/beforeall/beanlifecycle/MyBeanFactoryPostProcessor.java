@@ -1,4 +1,4 @@
-package com.example.beforeall.model;
+package com.example.beforeall.beanlifecycle;
 
 
 import org.springframework.beans.BeansException;
